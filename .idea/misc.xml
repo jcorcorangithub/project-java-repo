@@ -8,6 +8,8 @@
       <list>
         <option value="$PROJECT_DIR$/archive-config-service/pom.xml" />
         <option value="$PROJECT_DIR$/EurekaServiceRegistry/pom.xml" />
+        <option value="$PROJECT_DIR$/random-topic-service/pom.xml" />
+        <option value="$PROJECT_DIR$/archive-cloud-service/pom.xml" />
       </list>
     </option>
   </component>

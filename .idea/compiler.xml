@@ -6,19 +6,24 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="random-topic-service" />
         <module name="EurekaServiceRegistry" />
         <module name="archive-config-service" />
+        <module name="archive-cloud-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="archive-cloud-service" target="1.8" />
       <module name="archive-config-service" target="1.8" />
       <module name="EurekaServiceRegistry" target="1.8" />
+      <module name="random-topic-service" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="EurekaServiceRegistry" options="-parameters" />
       <module name="archive-config-service" options="-parameters" />
+      <module name="random-topic-service" options="-parameters" />
     </option>
   </component>
 </project>
