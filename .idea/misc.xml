@@ -7,6 +7,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/archive-config-service/pom.xml" />
+        <option value="$PROJECT_DIR$/EurekaServiceRegistry/pom.xml" />
       </list>
     </option>
   </component>
