@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/archive-config-service/archive-config-service.iml" filepath="$PROJECT_DIR$/archive-config-service/archive-config-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/project-java-repo.iml" filepath="$PROJECT_DIR$/.idea/project-java-repo.iml" />
       <module fileurl="file://$PROJECT_DIR$/random-topic-service/random-topic-service.iml" filepath="$PROJECT_DIR$/random-topic-service/random-topic-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back-end/record-collection.iml" filepath="$PROJECT_DIR$/back-end/record-collection.iml" />
     </modules>
   </component>
 </project>
