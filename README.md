@@ -25,10 +25,10 @@ The main technologies used for the project include:
 ## How to run the app
 1. clone the repository
 2. Run back-end directories using IntelliJ in order:
-  a. archive-config-service
-  b. EurekaServiceRegistry
-  c. random-topic-service
-  d. archive -cloud-service
+  a. archive-config-service\n
+  b. EurekaServiceRegistry\n
+  c. random-topic-service\n
+  d. archive -cloud-service\n
   e. back-end[record-collection]
 3. Run the react-front directory using a terminal such as VSC or powershell by first installing all packages with "npm install" in the root file.
   Then run "npm start" in the terminal, which should open a new browser window. Give the react app a few moments to upload the page, then test out the features.
