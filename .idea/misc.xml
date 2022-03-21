@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/EurekaServiceRegistry/pom.xml" />
         <option value="$PROJECT_DIR$/random-topic-service/pom.xml" />
         <option value="$PROJECT_DIR$/archive-cloud-service/pom.xml" />
+        <option value="$PROJECT_DIR$/back-end/pom.xml" />
       </list>
     </option>
   </component>
